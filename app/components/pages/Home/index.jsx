@@ -76,7 +76,7 @@ export default function MainPage() {
   );
 
   return (
-    <Container maxW="7xl" minH={"100vh"} py="10">
+    <Container maxW="6xl" minH={"100vh"} py="10">
       <Center>
         <Text textStyle={"title-medium"} fontWeight={"extrabold"}>
           Todo Application
